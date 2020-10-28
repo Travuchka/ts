@@ -1,0 +1,473 @@
+@media (max-width: 1200px){
+    /*HEADER*/
+    .content-all header .slider .slider-item{
+        height: 500px;
+    }
+    .content-all header .container .bar{
+        padding: 0px 15px;
+    }
+    /*about*/
+    /*expertise*/
+    /*team*/
+    /*works*/
+    .content-all .works .boxs{
+        padding: 0;
+    }
+    /*testimonials*/
+    /*contact*/
+    /*footer*/
+}
+@media (max-width: 992px){
+    /*HEADER*/
+    .content-all header .container .center-text .title{
+        font-size: 26px;
+    }
+    .content-all header .container .center-text .subtitle{
+        width: 85%;
+        font-size: 13px;
+    }
+    .content-all header .container .center-text{
+        margin-top: 100px;
+    }
+    .content-all header .container{
+        width: 100%;
+    }
+    /*about*/
+    .content-all .about .container{
+        width: 100%;
+    }
+    .content-all .about .container .about-text .subtitle{
+        opacity: 0.85;
+    }
+    .content-all .about .container .left-img img{
+        margin-left: 20px;
+    }
+    /*expertise*/
+    .content-all .expertise .container{
+        width: 100%;
+    }
+    .content-all .expertise .container .boxs .box{
+        /* border: none; */
+        padding: 0;
+    }
+    .content-all .expertise .container .boxs .box-1{
+        padding-right: 17.5px;
+        padding-left: 17.5px;
+    }
+    .content-all .expertise .container .boxs .box-2{
+        padding-left: 17.5px;
+        padding-right: 17.5px;
+    }
+    .content-all .expertise .container .boxs .box-3{
+        padding-left: 17.5px;
+        padding-right: 17.5px;
+    }
+    .content-all .expertise .container .boxs .box-4{
+        padding-left: 17.5px;
+        padding-right: 17.5px;
+    }
+    .content-all .expertise .container .boxs .box-5{
+        padding-left: 17.5px;
+        padding-right: 17.5px;
+    }
+    .content-all .expertise .container .boxs .box-6{
+        padding-left: 17.5px;
+        padding-right: 17.5px;
+    }
+    .content-all .expertise{
+        margin-top: 50px;
+    }
+    .content-all .expertise .container .boxs .box img{
+        margin-top: 20px;
+    }
+    /*team*/
+    .content-all .team .container{
+        width: 100%;
+    }
+    .content-all .team .container .boxs{
+        flex-wrap: wrap;
+        margin: auto;
+        justify-content: center;
+    }
+    .content-all .team .container .boxs .box{
+        padding: 0;
+        margin: 0;
+    }
+    .content-all .team .container .boxs .box-1{
+        padding-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 5px;
+    }
+    .content-all .team .container .boxs .box-2{
+       padding-left: 10px;
+       margin-right: 10px;
+       margin-bottom: 5px;
+    }
+    .content-all .team .container .boxs .box-3{
+        padding-left: 10px;
+        margin-right: 10px;
+        /* padding-top: 5px; */
+    }
+    .content-all .team .container .boxs .box-4{
+        padding-left: 10px;
+        margin-right: 10px;
+        padding-top: 5px;
+    }
+    /*works*/
+    .content-all .works .container{
+        width: 100%;
+    }
+    .content-all .works .container .title{
+        padding: 0px 20px;
+    }
+    /*testimonials*/
+    .content-all .testimonials{
+        height: 100%;
+        padding-bottom: 30px;
+    }
+    .content-all .testimonials .container .text .subtitle{
+        width: 90%;
+    }
+    .content-all .testimonials .container .testimonials-slider{
+        width: 80%;
+    }
+    /*contact*/
+    .content-all .contact .container{
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    .content-all .contact .container form{
+        margin: auto;
+        text-align: center;
+    }
+    .content-all .contact .container .client{
+        text-align: center;
+        margin: 30px auto;
+    }
+    /*footer*/
+    .content-all footer .container{
+        width: 100%;
+    }
+    .content-all footer .container .center{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .content-all footer .container .center .right-content {
+        margin: 10px 0px 0px 0px;
+    }
+    
+}
+@media (max-width: 870px){
+    /*expertise*/
+    .content-all .expertise .container .boxs .box{
+        border: none;
+    }
+    .content-all .expertise .container .boxs .box-1{
+        border-right: 1.5px solid #DDDCDB;
+        border-bottom: 1.5px solid #DDDCDB;
+    }
+    .content-all .expertise .container .boxs .box-2{
+        border-left: 1.5px solid #DDDCDB;
+        border-bottom: 1.5px solid #DDDCDB;
+    }
+    .content-all .expertise .container .boxs .box-3{
+        border-right: 1.5px solid #DDDCDB;
+        border-bottom: 1.5px solid #DDDCDB;
+        border-top: 1.5px solid #DDDCDB;
+    }
+    .content-all .expertise .container .boxs .box-4{
+        border-left: 1.5px solid #DDDCDB;
+        border-bottom: 1.5px solid #DDDCDB;
+        border-top: 1.5px solid #DDDCDB;
+    }
+    .content-all .expertise .container .boxs .box-5{
+        border-right: 1.5px solid #DDDCDB;
+        border-top: 1.5px solid #DDDCDB;
+    }
+    .content-all .expertise .container .boxs .box-6{
+        border-left: 1.5px solid #DDDCDB;
+        border-top: 1.5px solid #DDDCDB;
+    }
+    /*works*/
+    /*testimonials*/
+}
+@media (max-width: 767px){
+    /*HEADER*/
+    .content-all header .container .bar .logo{
+        z-index: 3;
+        width: 100%;
+        height: 40px;
+    }
+    .content-all header .container .bar .logo p{
+        font-size: 27px;
+    }
+    .content-all header .container .bar .logo{
+        padding: 5px 5px;
+    }
+    .content-all header .container .bar .burger-menu {
+        display: block;
+        position: relative;
+        width: 40px;
+        height: 30px;
+        z-index: 2;
+        margin-top: 10px;
+        margin-right: 10px;
+    }
+    .content-all header .container .bar .burger-menu span{
+        position: absolute;
+        background-color: #fff;
+        left: 0;
+        width: 100%;
+        height: 2px;
+        top: 14px;
+    }
+    .content-all header .container .bar .burger-menu::before, .content-all header .container .bar .burger-menu::after{
+        content: '';
+        background-color: #fff;
+        position: absolute;
+        width: 100%;
+        height: 2px;
+        left: 0;
+    }
+    .content-all header .container .bar .burger-menu::before{
+        top: 0;
+    }
+    .content-all header .container .bar .burger-menu::after{
+        bottom: 0;
+    }
+    .content-all header .container .bar .menu{
+        position: fixed;
+        top: -100%;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.7);
+        transition: all 0.5s ease 0s;
+        overflow: auto;
+    }
+    .content-all header .container .bar .menu.active{
+        top: 0;
+    }
+    .content-all header .container .bar .menu ul{
+        position: absolute;
+        top: 0;
+        padding-top: 60px;
+        width: 100%;
+        height: 40px;
+    }
+    .content-all header .container .bar .menu ul li{
+        display: block;
+        text-align: center;
+        font-size: 30px;
+        width: 100%;
+        padding: 5px 0px;
+    }
+    .content-all header .container .bar .menu ul li a{
+        padding: 15px 130px 5px 130px;
+        font-size: 18px;
+    }
+    .content-all header .container .bar .menu ul li a.reg{
+        padding: 15px 115px 5px 115px;
+    }
+    .content-all header .container .bar{
+        width: 100%;
+        position: fixed;
+        background-color: rgba(0, 0, 0, 0.8);
+        margin: 0;
+        padding: 0;
+        z-index: 11;
+    }
+    /*about*/
+    .content-all .about{
+        margin-top: 30px;
+    }
+    .content-all .about .container{
+        flex-wrap: wrap;
+    }
+    .content-all .about .container .left-img {
+        text-align: center;
+    }
+    .content-all .about .container .left-img img{
+        margin: 0;
+    }
+    .content-all .about .container .about-text .title, .content-all .about .container .about-text .subtitle{
+        text-align: center;
+        padding: 0px 20px;
+    }
+    .content-all .about .container .about-text button{
+        display: block;
+        margin: 20px auto 0px auto;
+    }
+    /*expertise*/
+    .content-all .expertise .container{
+        width: 100%;
+    }
+    .content-all .expertise .container .boxs .box{
+        border: none;
+    }
+    .content-all .expertise .container .boxs .box-1{
+        border-right: 1.5px solid #DDDCDB;
+        border-bottom: 1.5px solid #DDDCDB;
+    }
+    .content-all .expertise .container .boxs .box-2{
+        border-left: 1.5px solid #DDDCDB;
+        border-bottom: 1.5px solid #DDDCDB;
+    }
+    .content-all .expertise .container .boxs .box-3{
+        border-right: 1.5px solid #DDDCDB;
+        border-bottom: 1.5px solid #DDDCDB;
+        border-top: 1.5px solid #DDDCDB;
+    }
+    .content-all .expertise .container .boxs .box-4{
+        border-left: 1.5px solid #DDDCDB;
+        border-bottom: 1.5px solid #DDDCDB;
+        border-top: 1.5px solid #DDDCDB;
+    }
+    .content-all .expertise .container .boxs .box-5{
+        border-right: 1.5px solid #DDDCDB;
+        border-top: 1.5px solid #DDDCDB;
+    }
+    .content-all .expertise .container .boxs .box-6{
+        border-left: 1.5px solid #DDDCDB;
+        border-top: 1.5px solid #DDDCDB;
+    }
+    /*team*/
+    /*works*/
+    /*testimonials*/
+    /*contact*/
+    /*footer*/
+    .content-all footer .container .center .left-content, .content-all footer .container .center .center-content, .content-all footer .container .center .right-content{
+        margin-top: 20px;
+    }
+    .content-all footer .container .center .center-content .phone, .content-all footer .container .center .center-content .adress{
+        margin-top: 0px;
+    }
+    .content-all footer .container .plus-text{
+        flex-wrap: wrap;
+        margin: 0;
+        padding: 20px 0px;
+    }
+    .content-all footer .container .plus-text .left{
+        margin: 0;
+        justify-content: center;
+    }
+    .content-all footer .container .plus-text .right{
+        width: 100%;
+        margin-top: 15px;
+    }
+    .content-all footer .container .plus-text .right p{
+        text-align: center;
+    }
+    .content-all footer .container .plus-text .left a{
+        font-size: 12px;
+    }
+    .content-all footer .container .center .right-content .social-network{
+        text-align: center;
+    }
+}
+@media (max-width: 580px){
+    /*expertise*/
+    .content-all .expertise .container .boxs .box{
+        border: none;
+    }
+    .content-all .expertise .container .boxs .box-1{
+        border-bottom: 1px solid #DDDCDB;
+    }
+    .content-all .expertise .container .boxs .box-2{
+        border-top: 1px solid #DDDCDB;
+        border-bottom: 1px solid #DDDCDB;
+    }
+    .content-all .expertise .container .boxs .box-3{
+        border-top: 1px solid #DDDCDB;
+        border-bottom: 1px solid #DDDCDB;
+    }
+    .content-all .expertise .container .boxs .box-4{
+        border-top: 1px solid #DDDCDB;
+        border-bottom: 1px solid #DDDCDB;
+    }
+    .content-all .expertise .container .boxs .box-5{
+        border-top: 1px solid #DDDCDB;
+        border-bottom: 1px solid #DDDCDB;
+    }
+    .content-all .expertise .container .boxs .box-6{
+        border-top: 1px solid #DDDCDB;
+    }
+    /*works*/
+    .content-all .works button{
+        margin: 25px auto;
+    }
+}
+@media (max-width: 425px){
+    /*HEADER*/
+    .content-all header .slider .slider-item{
+        height: 580px;
+    }
+    .content-all header .container .center-text .title{
+        font-size: 20px;
+    }
+    .content-all header .container .center-text .subtitle{
+        width: 90%;
+    }
+    .content-all header .container .bar .menu ul li a{
+        padding: 15px 110px 5px 110px;
+    }
+    .content-all header .container .bar .menu ul li a.reg{
+        padding: 15px 100px 5px 100px;
+    }
+    /*about*/
+    /*expertise*/
+    .content-all .expertise .container .text .subtitle{
+        padding: 0px 10px;
+    }
+    .content-all .expertise .container .boxs{
+        padding: 0;
+    }
+    /*team*/
+    .content-all .team .container .text .title{
+        font-size: 20px;
+    }
+    .content-all .team .container .text .subtitle, .content-all .team .container .bottom-info .plus-text{
+        padding: 0px 5px;
+        font-size: 13px;
+    }
+    /*works*/
+    .content-all .works .container .title{
+        display: block;
+        text-align: center;
+        margin: 20px 0px;
+    }
+    .content-all .works .container .title .right-text .plus-text{
+        margin: 10px auto;
+    }
+    /*testimonials*/
+    /*contact*/
+    .content-all .contact .container form{
+        width: 100%;
+        margin: auto;
+        text-align: center;
+    }
+    .content-all .contact .container form .name, .content-all .contact .container form .email, .content-all .contact .container form .subject, .content-all .contact .container form .massage{
+        width: 90%;
+    }
+    .content-all .contact .container .client{
+        text-align: center;
+        margin: 30px auto;
+    }
+    .content-all .contact .container .client .logos-icon .icon-zara, .content-all .contact .container .client .logos-icon .icon-mango, .content-all .contact .container .client .logos-icon .icon-barneys-newnyork, .content-all .contact .container .client .logos-icon .icon-gucci, .content-all .contact .container .client .logos-icon .icon-calvin-klein, .content-all .contact .container .client .logos-icon .icon-nike, .content-all .contact .container .client .logos-icon .icon-converse, .content-all .contact .container .client .logos-icon .icon-puma, .content-all .contact .container .client .logos-icon .icon-levis, .content-all .contact .container .client .logos-icon .icon-billabong{
+        width: 102px;
+    }
+    .content-all .contact .container .client .logos-icon{
+        display: flex;
+        justify-content: space-around;
+    }
+    /*footer*/
+}
+@media (max-width: 320px){
+    .content-all .contact .container .client .logos-icon .icon-zara, .content-all .contact .container .client .logos-icon .icon-mango, .content-all .contact .container .client .logos-icon .icon-barneys-newnyork, .content-all .contact .container .client .logos-icon .icon-gucci, .content-all .contact .container .client .logos-icon .icon-calvin-klein, .content-all .contact .container .client .logos-icon .icon-nike, .content-all .contact .container .client .logos-icon .icon-converse, .content-all .contact .container .client .logos-icon .icon-puma, .content-all .contact .container .client .logos-icon .icon-levis, .content-all .contact .container .client .logos-icon .icon-billabong{
+        width: 99px;
+        margin-left: 6px;
+    }
+    .content-all .contact .container .client .logos-icon .icon-mango, .content-all .contact .container .client .logos-icon .icon-nike, .content-all .contact .container .client .logos-icon .icon-billabong{
+        padding: 0;
+    }
+}
